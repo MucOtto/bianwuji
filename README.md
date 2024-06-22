@@ -191,4 +191,5 @@ kubectl apply -f service.yaml
 
 ## 7、查看服务
 
-![image.png](https://note.youdao.com/yws/res/7/WEBRESOURCEd54a96dc39114d973af14ef91c556737)
+<img width="669" alt="image" src="https://github.com/MucOtto/bianwuji/assets/122969909/cc171827-285f-4c4f-baad-bf91f58ef6c6">
+
